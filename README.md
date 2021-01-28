@@ -11,6 +11,10 @@ En este caso el llamado a la función isMutant(dna) devuelve “true”.
 **CLONAR EL PROYECTO**
 
 El proyecto descansa en un repository GitHub el cual puedes clonar desde la siguiente ruta:
+git clone https://github.com/leonardinolima/Magneto.git
+Se recomienda clonar el proyecto ubicado en la ruta local go/src/github.com/ y al clonar se  creará el directorio /magneto.
+
+Ahora debes hacer switch a la rama dev (la rama por defecto es master)
 
 **CONFIGURACION DE LA APLICACIÓN**
 
